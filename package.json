@@ -1,5 +1,5 @@
 {
-  "name": "cron-js",
+  "name": "node-cron-js",
   "version": "1.0.0",
   "description": "A lightweight cron job scheduler with retry capabilities.",
   "main": "src/index.js",
