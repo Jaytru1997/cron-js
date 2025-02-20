@@ -1,0 +1,22 @@
+{
+  "name": "simple-cron",
+  "version": "1.0.0",
+  "description": "A lightweight cron job scheduler with retry capabilities.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaytru1997/simple-cron.git"
+  },
+  "keywords": [
+    "cron",
+    "scheduler",
+    "task-runner",
+    "node-cron"
+  ],
+  "author": "Oghenekparobo Onosemuode",
+  "license": "MIT",
+  "dependencies": {}
+}

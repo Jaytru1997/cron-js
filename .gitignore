@@ -1,0 +1,5 @@
+.env
+.vscode
+.idea
+.git
+package-lock.json
