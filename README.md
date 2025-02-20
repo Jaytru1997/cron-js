@@ -14,7 +14,7 @@ A simple cron job scheduler for Node.js built with `EventEmitter`. This library 
 ## Installation
 
 ```bash
-npm install simple-cron
+npm install cron-js
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ npm install simple-cron
 ### Importing the module
 
 ```javascript
-const cron = require('simple-cron');
+const cron = require('cron-js');
 ```
 
 ### Scheduling a Job
@@ -55,7 +55,7 @@ cron.stopAll();
 ### General Usage
 
 ```javascript
-const cron = require("simple-cron");
+const cron = require("cron-js");
 
 // Define a job that runs every 10 seconds
 const jobId = cron.schedule("*/10 * * * * *", async () => {
