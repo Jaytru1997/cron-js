@@ -1,5 +1,5 @@
 {
-  "name": "simple-cron",
+  "name": "cron-js",
   "version": "1.0.0",
   "description": "A lightweight cron job scheduler with retry capabilities.",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaytru1997/simple-cron.git"
+    "url": "git+https://github.com/jaytru1997/cron-js.git"
   },
   "keywords": [
     "cron",
